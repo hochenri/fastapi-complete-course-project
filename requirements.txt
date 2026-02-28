@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+passlib[bcrypt]
+python-jose
+python-multipart
+slowapi
+pytest
+httpx
+cryptography
