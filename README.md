@@ -24,33 +24,6 @@ The project is intentionally structured to teach maintainability, scalability, a
 
 ---
 
-## 📁 Repository Structure
-
-```
-/app
-  /api
-    /v1
-      routes.py
-  /core
-    config.py
-    security.py
-  /models
-    user.py
-  /schemas
-    user.py
-  /services
-    user_service.py
-  main.py
-/tests
-docker-compose.yml
-requirements.txt
-README.md
-```
-
-Each module reflects a clean separation of concerns, making the codebase easy to extend and ideal for learning professional backend architecture.
-
----
-
 ## 🧰 Features Implemented
 
 - **User authentication** with JWT access tokens
