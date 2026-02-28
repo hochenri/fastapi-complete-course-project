@@ -87,12 +87,6 @@ This project is part of my free course designed to teach:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project or suggest new lessons.
-
----
-
 ## 📜 License
 
 This project is released under the MIT License. You are free to use, modify, and distribute it.
